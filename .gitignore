@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# netcdf files
+*.nc
+*.nc4
+*.netcdf
+
 # Distribution / packaging
 .Python
 build/
